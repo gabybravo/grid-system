@@ -1,0 +1,39 @@
+.caja {
+	background-color: #FFAB6D;
+}
+
+header {
+	text-align: center;
+}
+
+.back {
+	background-image: url(http://lorempixel.com/600/400/cats);
+	background-repeat: none;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+.back .container {
+	background-color: rgba(255, 255, 255, 0.5);
+	height: 100vh;
+}
+
+.texto {
+	position: absolute;
+	top: 40%;
+	left: 35%;
+}
+
+.cats-1 {
+	margin: 0px 0px 20px 0px;
+}
+
+.col-4 p {
+	padding-bottom: 10px;
+}
+
+button {
+	padding: 5px;
+	float: right;
+}
